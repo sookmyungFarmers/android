@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item
+    android:id="@+id/homeFragment"
+    android:icon="@drawable/ic_home"
+    android:title="Home" />
+<item
+    android:id="@+id/questionFragment"
+    android:icon="@drawable/ic_question"
+    android:title="Question"
+    app:itemIconSize="60dp" />
+<item
+    android:id="@+id/reviewFragment"
+    android:icon="@drawable/ic_review"
+    android:title="Review" />
+<item
+    android:id="@+id/friendsFragment"
+    android:icon="@drawable/ic_friends"
+    android:title="Friends" />
+<item
+    android:id="@+id/profileFragment"
+    android:icon="@drawable/ic_profile"
+    android:title="Profile" />
+</menu>
