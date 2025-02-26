@@ -1,4 +1,4 @@
-# upstyle-android
+# Sprinkler-Android
 
 
 ### <Github 환경 설정>
